@@ -40,3 +40,5 @@ The dataset used in this project contains sales information, including details a
 2. **Exploratory Data Analysis (EDA)**: Perform EDA to understand the distribution of data and identify any patterns or trends.
 3. **Dashboard Development**: Use data visualization tools to create an interactive dashboard that presents the sales data in an intuitive and accessible manner.
 4. **Insights and Recommendations**: Derive insights from the dashboard and suggest recommendations to improve business performance.
+5. ## Screenshot
+![Screenshot (1589)](https://github.com/user-attachments/assets/2034dae6-7a83-4662-b837-38baa9d32cf6)
